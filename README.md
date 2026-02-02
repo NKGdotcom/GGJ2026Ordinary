@@ -7,7 +7,7 @@ https://globalgamejam.org/games/2026/under-way-8<br>
 <br>
 
 # タイトル
-Under way<br>
+## Under way<br>
 
 # 開発環境
 プラットフォーム：ゲームギア<br>
