@@ -39,7 +39,7 @@ Under way<br>
 光る線のアイテムを獲得し、線の上でボタンを押すと道が上書きされる<br>
 全11ステージ<br>
 
-# 短いプレイ動画
+# プレイ動画
 ![Under Way Gif](https://github.com/user-attachments/assets/c8d2203e-8143-423a-b74d-e7ebcb9d30b0)
 
 ### ※チーム名⇒タイトル⇒遊び方⇒数ステージまでをこちらの動画として上げております。
